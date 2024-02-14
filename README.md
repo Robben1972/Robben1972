@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **I think I'm boring :)**
 
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shakhobiddin bozorov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakhobiddin bozorov" height="30" width="40" /></a>
