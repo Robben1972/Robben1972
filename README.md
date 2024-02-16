@@ -1,27 +1,4 @@
-<style>
- .typing-demo {
-  width: 22ch;
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-  font-family: monospace;
-  font-size: 2em;
-}
-
-@keyframes typing {
-  from {
-    width: 0
-  }
-}
-    
-@keyframes blink {
-  50% {
-    border-color: transparent
-  }
-}
-</style>
-<div class='typing-demo'><h1 align="center">Hi 👋, I'm Bozorov Shakhobiddin</h1></div>
+<h1 align="center">Hi 👋, I'm Bozorov Shakhobiddin</h1></div>
 <h3 align="center">A backend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robben1972&label=Profile%20views&color=0e75b6&style=flat" alt="robben1972" /> </p>
