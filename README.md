@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bozorovshahob27@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shakhobiddin-bozorov-2827bb290/](https://www.linkedin.com/in/shakhobiddin-bozorov-2827bb290/)
+- 📄 Know about my experiences www.linkedin.com/in/шахобиддин-бозоров-2827bb290
 
 - ⚡ Fun fact **I think I'm boring :)**
 
